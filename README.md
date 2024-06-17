@@ -1,5 +1,16 @@
 # Dashboard Data-Science
 
+<h3 align = "center">Nossa Equipe</h3>
+<p align = "center">
+  <a href="https://github.com/AdrielFernando">Adriel Fernando</a>
+   • 
+  <a href="https://github.com/Ioshua-N">Ioshua Noia</a>
+   • 
+  <a href="https://github.com/PedroHCMelo">Pedro Henrique</a>
+   • 
+  <a href="https://github.com/SidneyRodrigo">Sidney Rodrigo</a>
+</p>
+
 ## Sobre
 
 Este repositório GitHub foi criado para armazenar e gerenciar os arquivos referentes ao projeto de Data Science, que consiste na criação de um dashboard interativo utilizando a base de dados <a href="https://www.kaggle.com/datasets/mikhail1681/student-performance-pip">Student performance (PIP).
